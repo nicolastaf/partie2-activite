@@ -1,0 +1,13 @@
+body{
+	margin: 0 auto;
+}
+h1{
+	font-size: 1.4em;
+	color: blue;
+	font-family: cursive;
+	text-align: center;
+}
+p{
+	font-family: Verdana;
+	padding: 2% 0 2% 0;
+}
